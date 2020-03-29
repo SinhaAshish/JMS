@@ -2,6 +2,5 @@
 
 JMS
 
-This is the file to be tested.
-Needs testing jms
+This is the file to be,jjfjfj
 Java messaging service
